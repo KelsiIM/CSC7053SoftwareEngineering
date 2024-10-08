@@ -1,0 +1,11 @@
+1: The aim of the game is to collect the most GreenCredits or outlast opponents.
+2: Each Guardian begins with 400 GreenCredits.
+3: A Guardian will receive 150 Green Credits for landing on or passing ‘GO’.
+4: Receive bonus GreenCredits by landing on a Reward Area.
+5: Lose GreenCredits by landing on a Punishment Area.
+6: Green Getaway is a neutral Area - No consequence for landing here.
+7: Four types of Environments exist - Polar, Rainforest, Water & Urban. 
+8: Own all of the Areas within an Environment to upgrade it's Investment Level. The highest level is 4 which is a Major Investment. 
+9: The higher the Investment Level, the higher the donation fee due when a Guardian lands on an owned Area.
+10: If a Guardian does not buy an Area, it will be auctioned to other Guardians in a randomised order.
+11: The game ends if a Guardian skips their turn, goes bankrupt, or reaches the maximum rounds.
