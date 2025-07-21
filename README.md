@@ -29,15 +29,24 @@ Have the following installed:
 - Git for cloning the repository
 
 #### Steps to Run Locally
-1. Clone the repository.
-2. Open the project in Eclipse IDE.
-3. Compile and run the Game.java file.
-4. Follow the in-terminal prompts to play!
+Import into Eclipse (Manual Java Project Setup)
+
+1. Download the ZIP of this repo or clone it
+2. Open Eclipse IDE.
+3. Go to File > New > Java Project.
+4. Name the project (e.g. VirtualBoardGame) and uncheck “Use default location”.
+5. Click Browse and select the folder that contains the src/ directory.
+6. Click Finish.
+7. If prompted, allow Eclipse to set the src folder as a source folder.
+8. In the Project Folder, open Game.java (located in src).
+9. Right-click on Game.java > Run As > Java Application.
+
+Enjoy the game — follow the in-terminal prompts to play!
 
 ### My Contributions
-- Implemented most of the game's core functionality, including the conductAuction() method, game rounds and player
+- Implemented most of the game's core functionality, including the player moving around the board mechanics, conductAuction() method, game rounds and player
 exclusion mechanics.
 - Identified and resolved multiple bugs.
 - Created key UML diagrams such as use case, activity and sequence diagrams to support design and development.
 - Designed all artwork for the project.
-- Took a proactive role in facilitating group discussions and booking study rooms to work collaboratively as a team.
+- Took a proactive role in facilitating group discussions and booking study rooms to work collaboratively.
