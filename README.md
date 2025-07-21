@@ -50,3 +50,6 @@ exclusion mechanics.
 - Created key UML diagrams such as use case, activity and sequence diagrams to support design and development.
 - Designed all artwork for the project.
 - Took a proactive role in facilitating group discussions and booking study rooms to work collaboratively.
+
+### Note
+I removed the bin folder from the repo because it just contained compiled files that Eclipse generates automatically. The important stuff, the actual source code, is all in the src folder. This keeps the project clean and makes it easier to read and run!
